@@ -1,0 +1,6 @@
+{
+    "baseUrl":"https://wwwstg.aia.com.au/en/individual/health-insurance.html",
+    "ignoreTestFiles":"**/example/**",
+    "viewPortHeight": 768,
+    "viewPortWidth": 1024
+}

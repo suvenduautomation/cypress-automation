@@ -1,0 +1,21 @@
+{
+  "name": "cypress-test",
+  "version": "1.0.0",
+  "description": "This is Cypress Test automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/suvenduautomation/cypress-automation.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Suvendu Panja",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.2.0"
+  }
+}
