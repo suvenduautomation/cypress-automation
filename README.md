@@ -21,7 +21,13 @@ https://docs.cypress.io/guides/references/assertions#Chai
 
 # How to download and run the project
 go to git Repo : https://github.com/suvenduautomation/cypress-automation/tree/feature_cypress_automation_setup
+
 Clone the project in local using the command: git clone https://github.com/suvenduautomation/cypress-automation.git
-Goto the project folder in local
-run the command: npm install (This is not necessary for this instance but as a standard practice to make sure all packages are installed as defined in package.json dependency)
+
+Goto the project folder in local machine
+
+run the command: npm install (This is not necessary for this instance but as a standard practice to make sure 
+all packages are installed as defined in package.json dependency)
+
 Finanlly run : npx cypress open to run cypress test.
+
